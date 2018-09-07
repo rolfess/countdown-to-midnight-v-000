@@ -4,7 +4,7 @@ def countdown (count)
     count -= 1
   end
     #print "HAPPY NEW YEAR!"
-     "HAPPY NEW YEAR!"
+     return "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep (count)
