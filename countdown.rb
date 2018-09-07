@@ -3,7 +3,7 @@ def countdown (count)
     print "#{count} SECONDS(S)!"
     count -= 1
   end
-    print "HAPPY NEW YEAR!"
+    #print "HAPPY NEW YEAR!"
     return "HAPPY NEW YEAR!"
 end
 
