@@ -1,6 +1,6 @@
 def countdown (count)
   while count > 0
-    print "#{count} SECONDS(S)!"
+    print "#{count} SECONDS(S) !"
     count -= 1
   end
     #print "HAPPY NEW YEAR!"
